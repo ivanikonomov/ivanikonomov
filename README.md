@@ -1,5 +1,5 @@
 ### Hello world 🌍
-![image](images/hello-world.jpg)
+![image](blob/master/images/hello-world.jpg)
 <!--
 **ivanikonomov/ivanikonomov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
