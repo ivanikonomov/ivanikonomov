@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://user-images.githubusercontent.com/7861081/90296829-fb3ba800-de8c-11ea-8dfa-f5da22cf6df2.png)
 <!--
 **ivanikonomov/ivanikonomov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
